@@ -1,4 +1,4 @@
-package Basico
+package basico
 //comentário
 /*
 várias linhas de comentários....

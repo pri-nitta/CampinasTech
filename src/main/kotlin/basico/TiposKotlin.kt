@@ -1,4 +1,4 @@
-package Basico
+package basico
 
 fun main (){
     val num1: Byte = 127
